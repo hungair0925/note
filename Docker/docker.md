@@ -7,7 +7,7 @@
    - イメージは複数のレイヤーで構成されている。
    - (例)CentOs => Ruby => Rails 
 # dockerの詳細情報
-   - docker inspect イメージ名/イメージid
+   - docker inspect イメージ名/id
 # dockerイメージの削除
   - docker rmi イメージ名/id
      - 強制削除は -f オプション付与
