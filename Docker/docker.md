@@ -11,3 +11,13 @@ Ruby
 -----
 CentOS
 例.上矢印
+
+dockerの詳細情報
+docker inspect イメージ名/イメージid
+
+dockerイメージの削除
+docker rmi イメージ名/id
+=> 強制削除は -f オプション付与
+
+dockerイメージの取得
+dokcer pull  イメージ名/id
