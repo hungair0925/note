@@ -3,7 +3,7 @@
  2. docker create: コンテナの作成
  3. docker start: コンテナの起動
 
-# 便利なイメージ群はDockerHubに格納荒れている。
+# 便利なイメージ群はDockerHubから参照
    - イメージは複数のレイヤーで構成されている。
    - (例)CentOs => Ruby => Rails 
 # dockerの詳細情報
