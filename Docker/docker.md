@@ -4,3 +4,10 @@ $docker run hello-world
     3. docker start: コンテナの起動
 
 便利なイメージ群 => DockerHub
+イメージは複数のレイヤーで構成されている。
+Rails
+-----
+Ruby
+-----
+CentOS
+例.上矢印
